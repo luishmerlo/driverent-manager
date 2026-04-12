@@ -1,0 +1,42 @@
+[
+  {
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "placa": "BRA2E19",
+    "ano": 2020,
+    "preco": 150,
+    "status": "Disponível"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Gol",
+    "placa": "GOL4A22",
+    "ano": 2022,
+    "preco": 100,
+    "status": "Disponível"
+  },
+  {
+    "marca": "Fiat",
+    "modelo": "Palio",
+    "placa": "ABC1D23",
+    "ano": 2019,
+    "preco": 95,
+    "status": "Alugado"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "placa": "TYT5B31",
+    "ano": 2023,
+    "preco": 120,
+    "status": "Alugado"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "HB20",
+    "placa": "HYN3C47",
+    "ano": 2021,
+    "preco": 75,
+    "status": "Alugado"
+  }
+]

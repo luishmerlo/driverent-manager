@@ -1,0 +1,38 @@
+.container {
+  padding: 32px;
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+
+.card {
+  background-color: #e8e8e8;
+  width: 100%;
+  max-width: 600px;
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #515151;
+  font-size: 1.5rem;
+  align-self: center;
+}
+
+.botaoDetalhes {
+  background-color: #ef4444;
+  color: white;
+  border: none;
+  width: fit-content;
+  border-radius: 6px;
+  padding: 6px 12px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: background-color 0.2s;
+  align-self: center;
+}
+
+.botaoDetalhes:hover {
+  background-color: #b91c1c;
+}
