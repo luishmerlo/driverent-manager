@@ -4,8 +4,6 @@ import styles from "./RootLayout.module.css";
 import { RootLayoutProps } from "./types";
 import { ToastContainer } from "react-toastify";
 
-// Header com position sticky conforme feedback do TP3
-
 export default function RootLayout({ isLogged, setIsLogged }: RootLayoutProps) {
   return (
     <>
