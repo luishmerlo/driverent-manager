@@ -11,8 +11,6 @@ import NotFound from "./pages/NotFound";
 import ProtectedRoute from "./components/ProtectedRoute";
 import FleetList from "./pages/FleetList";
 
-// Usei localStorage no FrotaContext porque fazia mais sentido
-
 export default function App() {
   const [isLogged, setIsLogged] = useState(false);
 
