@@ -55,7 +55,7 @@ Sistema web de gestão de frota de veículos desenvolvido em **React com TypeScr
  
 - [React](https://reactnative.dev/) com [TypeScript](https://www.typescriptlang.org/)
 - [React Router DOM](https://reactrouter.com/) - navegação, rotas aninhadas, dinâmicas e protegidas
-- [React Toastify](https://fkhadra.github.io/react-toastify/) — notificações e feedbacks visuais
+- [React Toastify](https://fkhadra.github.io/react-toastify/) - notificações e feedbacks visuais
 - Context API - gerenciamento de estado global da frota
 - CSS Modules - estilização com escopo por componente
 - LocalStorage - persistência de dados no navegador
